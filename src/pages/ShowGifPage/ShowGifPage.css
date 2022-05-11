@@ -1,0 +1,17 @@
+h3{
+    padding-left:1rem;
+    padding-bottom: 1rem;
+}
+
+.showGIF{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.centerImage{
+    height: 100%;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}

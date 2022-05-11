@@ -1,0 +1,32 @@
+.cardGIF {
+    display: grid;
+    grid-template-rows: 200px 100px;
+    width: 300px;
+    height: 300px;
+}
+
+a{
+    /*Styling the Link Tag*/
+    text-decoration: none;
+    color: #757676;
+}
+.cardGIF img{
+    max-width: 300px;
+    max-height: 200px;
+}
+
+.cardGIF > div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+#displayCards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}

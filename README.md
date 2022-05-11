@@ -10,4 +10,4 @@ npm start
 
 ## `Sobre la aplicacion web`
 
-En la aplicacion web podras hacer busqueda de GIFs, puedes ver el GIF en tanaño original dandole click en el titulo del GIF deseado,la aplicacion web es responsiva.
+En la aplicacion web podras hacer busqueda de GIFs, puedes ver el GIF en tamaño original dandole click en el titulo del GIF deseado,la aplicacion web es responsiva.
